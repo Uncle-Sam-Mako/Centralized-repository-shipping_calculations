@@ -1,5 +1,4 @@
-# Here is a new update by uncle-sam-mako
-# Here is another update by <your GitHub username>
+ # Here is a new update by uncle-sam-mako
 
 # Shipping Cost Calculator
 
